@@ -1,0 +1,12 @@
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp3.1/CollectionDemoConApp.deps.json
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp3.1/CollectionDemoConApp.runtimeconfig.json
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp3.1/CollectionDemoConApp.runtimeconfig.dev.json
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp3.1/CollectionDemoConApp.dll
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp3.1/CollectionDemoConApp.pdb
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.csprojAssemblyReference.cache
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.AssemblyInfoInputs.cache
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.AssemblyInfo.cs
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.csproj.CoreCompileInputs.cache
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.dll
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.pdb
+/Users/xuanzhou/Projects/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp3.1/CollectionDemoConApp.genruntimeconfig.cache
