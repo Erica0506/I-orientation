@@ -1,0 +1,12 @@
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.deps.json
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.runtimeconfig.json
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.runtimeconfig.dev.json
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.dll
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.pdb
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.csprojAssemblyReference.cache
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.AssemblyInfoInputs.cache
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.AssemblyInfo.cs
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.csproj.CoreCompileInputs.cache
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.dll
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.pdb
+/Users/xuanzhou/Projects/GenericCollections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.genruntimeconfig.cache
