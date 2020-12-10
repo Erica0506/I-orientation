@@ -1,0 +1,125 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+  </head>
+
+  <body>
+    <h1> Please Enter Your personl Details For Out Dating Website!</h1>
+    <form >
+	    <fieldset>
+		    <legend>Your Face</legend>
+          <div class="container zoom">
+            <div class="item-left">Your image: </div>
+            <div class="item-right"><input type="file" name="file" id="profile-img" required></div>
+          </div>
+          <div class="container zoom">
+            <div class="item-left">Image preview: </div>
+            <div class="item-right"><img src="" id="profile-img-tag" width="200px" />	</div>
+          </div>
+          <script type="text/javascript">
+            function readURL(input) {
+                if (input.files && input.files[0]) {
+                    var reader = new FileReader();
+                    
+                    reader.onload = function (e) {
+                        $('#profile-img-tag').attr('src', e.target.result);
+                    }
+                    reader.readAsDataURL(input.files[0]);
+                }
+            }
+            $("#profile-img").change(function(){
+                readURL(this);
+            });
+          </script>		
+	    </fieldset> <br>
+          
+	    <fieldset>
+		    <legend>Your General Details</legend>
+        <div class="container zoom">
+          <div class="item-left">Name: </div>
+          <div class="item-right"><input  type="text" name="fullname" value="Your Full Name" required> </div> 
+        </div>
+        <div class="container zoom">
+          <div class="item-left"> Gender: </div>
+          <div class="item-right"> 
+            <input type="radio" id="male" name="gender" value="male" required><label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female" required><label for="female">Female</label><br></div>
+        </div>
+        <div class="container zoom">
+          <div class="item-left">Age: </div>
+          <div class="item-right"><input type="number" name="age" min="0" max="150" required> </div>
+        </div>
+        <div class="container zoom">
+          <div class="item-left">Date of Birth: </div>
+          <div class="item-right"><input type="date"  name="birthday" value="mm/dd/yyyy" min="1870-01-01" max="2020-12-31" required></div> 
+        </div>
+        <div class="container zoom">
+          <div class="item-left">Favorite Color: </div>
+          <div class="item-right"><input type="color" name="favcolor" value="#ff0000" required></div>
+        </div>
+        <div class="container zoom">
+          <div class="item-left">Which Country: </div> 
+          <div class="item-right"><input list="country" name="country" id="country" required>
+            <datalist id="country">
+              <option value="USA">
+              <option value="UK">
+              <option value="France">
+              <option value="China">
+              <option value="Korea">
+              <option value="Canada">
+            </datalist> </div>
+        </div>
+	    </fieldset> <br>
+
+	    <fieldset>
+		    <legend>Your Indicators</legend>
+        <div class="container zoom">
+          <div class="item-left">Height: </div>
+          <div class="item-right"><span class="red">Short</span><input type="range" class="slider" id="hRange"><span class="purple">Tall</span> </div>
+        </div>
+        <div class="container zoom">
+          <div class="item-left">Salary: </div>
+          <div class="item-right"><span class="red">Poor</span><input type="range" class="slider" id="sRange"><span class="purple">Rich</span> </div>
+        </div>
+	    </fieldset> <br>
+
+	    <fieldset>
+		    <legend>Your Contact Information</legend>
+
+		    <div class="container zoom">
+          <div class="item-left">Email: </div>
+          <div class="item-right"><input type="email" name="email" required> </div>
+        </div>
+
+		    <div class="container zoom">
+          <div class="item-left">Mobile: </div>
+          <div class="item-right"><input type="Phone" name="mobile" required> </div>
+        </div>
+
+        <div class="container zoom">
+          <div class="item-left">Address: </div>
+          <div class="item-right"><input type="text" name="address" required> </div>
+        </div>
+
+        <div class="container zoom">
+          <div class="item-left">Method to contact you: </div>
+          <div class="item-right"><input type="radio" id="email" name="email" value="email" required>
+          <label for="email">Email</label>
+          <input type="radio" id="whatsapp" name="whatsapp" value="whatsapp" required>
+          <label for="whatsapp">whatsapp</label>
+          <input type="radio" id="inappchat" name="inappchat" value="inappchat" required>
+          <label for="inappchat">In-app chat</label>
+          </div>
+        </div>
+	    </fieldset> <br>
+
+      <input class="zoom" type="submit" value="Submit">
+
+    </form>
+
+  </body>
+</html>
