@@ -1,0 +1,12 @@
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.csprojAssemblyReference.cache
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.AssemblyInfoInputs.cache
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.AssemblyInfo.cs
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.csproj.CoreCompileInputs.cache
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/bin/Debug/netcoreapp3.1/InheritanceOverride.cs.deps.json
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/bin/Debug/netcoreapp3.1/InheritanceOverride.cs.runtimeconfig.json
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/bin/Debug/netcoreapp3.1/InheritanceOverride.cs.runtimeconfig.dev.json
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/bin/Debug/netcoreapp3.1/InheritanceOverride.cs.dll
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/bin/Debug/netcoreapp3.1/InheritanceOverride.cs.pdb
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.dll
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.pdb
+/Users/xuanzhou/Projects/InheritanceOverride.cs/InheritanceOverride.cs/obj/Debug/netcoreapp3.1/InheritanceOverride.cs.genruntimeconfig.cache
