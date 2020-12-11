@@ -111,35 +111,23 @@ function find22(){
 // 7.	Write a JavaScript program to get the integers in range (x, y). Go to the editor
 // Example : range(2, 9)
 // Expected Output : [3, 4, 5, 6, 7, 8]
-function getInt(start_num, end_num)
+function getInt()
 {
-    var start_num = document.getElementById("startNumber").value;
-    var end_num = document.getElementById("endNumber").value; 
-    var arr = [];
-	  while(start_num+1 < end_num){
-    arr.push(start++);
-    }; 
-    start_num++;
-  document.getElementById("demo7").innerHTML = arr;
+  var range = function(start_num, end_num) 
+  {
+    if (end_num - start_num === 2) 
+    {
+      return [start_num + 1];
+    } 
+    else 
+    {
+      var list = range(start_num, end_num - 1);
+      list.push(end_num - 1);
+      return list;
+    }
+  };
+  document.getElementById("demo7").innerHTML = range(2, 9);
 }
-// function getInt()
-// {
-//   var range = function(start_num, end_num)   
-//   {  
-//     if (end_num - start_num === 2)   
-//     {  
-//      return [start_num + 1];  
-//     }   
-//     else   
-//     {  
-//       var list = range(start_num, end_num - 1);  
-//       list.push(end_num - 1);  
-//       return list;  
-//     }  
-//   }; 
-//   document.getElementById("demo7").innerHTML = range(2, 8);
-// }
-
 
 // 8.	 Write a merge sort program in JavaScript.  
 // Sample array : [34,7,23,32,5,62]
